@@ -4,6 +4,8 @@ Go port of the [bullshit](http://man.cat-v.org/9front/1/bullshit) command of [9f
 
 ## Usage
 ```go
+package main
+
 import (
 	"fmt"
 
