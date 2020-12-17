@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/dsbrng25b/bullshit"
+	"github.com/dvob/bullshit"
 )
 
 func main() {
