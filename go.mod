@@ -1,4 +1,4 @@
-module github.com/dsbrng25b/bullshit
+module github.com/dvob/bullshit
 
 go 1.14
 
