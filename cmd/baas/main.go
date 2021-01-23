@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/dsbrng25b/bullshit"
+	"github.com/dvob/bullshit"
 	"golang.org/x/crypto/acme/autocert"
 )
 
